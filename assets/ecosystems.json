@@ -1,0 +1,517 @@
+{
+    "ChirpStack": {
+      "Overview": "OpenSource LoRaWAN Network Server developed by Broccar. An economical solution requiring technical expertise for setup and management.",
+      "BusinessFeatures": [
+        "Economical open-source solution",
+        "Requires LoRaWAN specialized IT experts",
+        "Offers complete control over the network"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["ChirpStack"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "No dedicated app, use browser-based dashboards",
+      "Editions": ["OpenSource", "Custom Deployments"],
+      "Link": "https://www.chirpstack.io/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-07"
+    },
+    "The Things Network (TTN)": {
+      "Overview": "Community-driven free LoRaWAN Network Server enabling shared infrastructure for global coverage.",
+      "BusinessFeatures": [
+        "Free community-based network",
+        "International coverage",
+        "Not recommended for commercial deployment due to lack of availability guarantees"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["The Things Network"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "No dedicated app, community tools available",
+      "Editions": ["Free Edition"],
+      "Link": "https://www.thethingsnetwork.org/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-06"
+    },
+    "The Things Industries (TTI)": {
+      "Overview": "Commercial offering of The Things Network providing private environments for professional use.",
+      "BusinessFeatures": [
+        "Paid subscription for commercial deployments",
+        "Private network with no sharing of elements",
+        "Customizable to business needs"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["The Things Industries"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "No dedicated app, browser-based tools",
+      "Editions": ["Commercial Plans"],
+      "Link": "https://www.thethingsindustries.com/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-06"
+    },
+    "Everynet": {
+      "Overview": "Professional LoRaWAN network server provider offering full-scale network solutions for telecom operators.",
+      "BusinessFeatures": [
+        "Low-cost professional solution",
+        "Includes Radio Access Network, Network Operating Center",
+        "Supports Telecom Operators with revenue-sharing models"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["Everynet"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "Custom solutions for telecom operators",
+      "Editions": ["Operator Focused"],
+      "Link": "https://www.everynet.com/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-05"
+    },
+    "ThingPark - Actility": {
+      "Overview": "LoRaWAN network server by Actility, primarily designed for telecom operators and large-scale deployments.",
+      "BusinessFeatures": [
+        "Supports gateways like Kerlink, Cisco, Multitech",
+        "Used by leading telecom operators worldwide",
+        "Comprehensive support for integration and deployment"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["ThingPark"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "Browser-based monitoring and tools",
+      "Editions": ["Telecom Grade"],
+      "Link": "https://www.actility.com/thingpark/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-04"
+    },
+    "LORIOT": {
+      "Overview": "Swiss-based LoRaWAN network server provider offering hosted and on-premise solutions.",
+      "BusinessFeatures": [
+        "Flexible deployment models",
+        "Supports hosted and on-premise options",
+        "Ideal for professional-grade LoRaWAN networks"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["LORIOT"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "Custom solutions available",
+      "Editions": ["Hosted", "On-Premise"],
+      "Link": "https://www.loriot.io/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-05"
+    },
+    "Orange LiveObjects": {
+      "Overview": "LoRaWAN solution by Orange Telecom supporting multiple communication technologies.",
+      "BusinessFeatures": [
+        "Supports device management, messaging, and data management",
+        "Integrated LoRaWAN Network Server in France",
+        "Comprehensive support for IoT deployments"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["Orange LiveObjects"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "LiveObjects Mobile App",
+      "Editions": ["Telecom Grade"],
+      "Link": "https://liveobjects.orange-business.com/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-06"
+    },
+    "Proximus": {
+      "Overview": "Belgian Telecom Operator offering nationwide LoRaWAN public network services.",
+      "BusinessFeatures": [
+        "Nationwide LoRaWAN coverage",
+        "Two services available: MyThings and Enco",
+        "Member of the LoRaWAN Alliance board"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["Proximus MyThings", "Proximus Enco"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "Browser-based tools available",
+      "Editions": ["Nationwide Services"],
+      "Link": "https://www.proximus.be/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-07"
+    },
+    "SwissCom": {
+      "Overview": "Public LoRaWAN network deployed in Switzerland by SwissCom.",
+      "BusinessFeatures": [
+        "Comprehensive Swiss coverage",
+        "Supports large-scale IoT deployments",
+        "Standard integration with IOT platforms"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["SwissCom LoRaWAN"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "No dedicated app",
+      "Editions": ["Nationwide Services"],
+      "Link": "https://www.swisscom.ch/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-05"
+    },
+    "KPN": {
+      "Overview": "Public LoRaWAN network deployed by KPN in the Netherlands with extensive national coverage.",
+      "BusinessFeatures": [
+        "High-quality national LoRaWAN network",
+        "Supports IoT deployments across multiple industries",
+        "Standard integration with IoT platforms"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["KPN LoRaWAN"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "No dedicated app, browser-based tools",
+      "Editions": ["Nationwide Services"],
+      "Link": "https://www.kpn.com/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-06"
+    },
+    "ER Telecom": {
+      "Overview": "Main LoRaWAN telecom operator in Russia, offering nationwide IoT services.",
+      "BusinessFeatures": [
+        "Supports IoT services with LoRaWAN technology",
+        "Main provider of digital television, internet, and mobile services",
+        "Strong presence in the Russian IoT market"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["ER Telecom LoRaWAN"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "Custom solutions for enterprise users",
+      "Editions": ["Nationwide Services"],
+      "Link": "https://www.ertelecom.ru/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-07"
+    },
+    "Multitech Network Server": {
+      "Overview": "A network server embedded in Multitech Conduit Gateways for small-scale LoRaWAN networks.",
+      "BusinessFeatures": [
+        "Gateway-embedded network server",
+        "Ideal for deployments with 1-2 Gateways",
+        "Simplifies small-scale IoT deployments"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["Multitech Network Server"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "No dedicated app, browser-based management",
+      "Editions": ["Gateway-Embedded"],
+      "Link": "https://www.multitech.com/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-07"
+    },
+    "IoT Factory Hosted LoRaWAN Network Server": {
+      "Overview": "A hosted LoRaWAN Network Server solution simplifying IoT deployments for enterprises.",
+      "BusinessFeatures": [
+        "Fully hosted network server",
+        "Supports adaptive data rate and custom configurations",
+        "Comprehensive dashboard for analysis and management"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["IoT Factory Hosted Server"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "No dedicated app, browser-based dashboard",
+      "Editions": ["Hosted"],
+      "Link": "https://www.iotfactory.eu/",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-07"
+    },
+    "RAD SecFlow": {
+      "Overview": "An industrial-grade IoT gateway supporting Docker and LoRaWAN capabilities for secure deployments.",
+      "BusinessFeatures": [
+        "Supports Docker-based containerized applications",
+        "Ideal for industrial IoT and edge computing",
+        "Secure and scalable for enterprise networks"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "Gateways": ["RAD SecFlow"],
+      "Integrations": ["Docker, LoRaWAN, Enterprise Systems"],
+      "MobileApp": "No dedicated app, web-based configuration",
+      "Editions": ["Industrial Gateway"],
+      "Link": "https://www.rad.com/",
+      "Type": "IoT Gateway",
+      "AddedDate": "2024-12-07"
+    },
+    "Cisco IoT Gateways": {
+      "Overview": "Enterprise-grade IoT gateways from Cisco supporting various network technologies and integrations.",
+      "BusinessFeatures": [
+        "Highly secure and scalable",
+        "Supports multiple IoT protocols including LoRaWAN",
+        "Ideal for enterprise and industrial IoT deployments"
+      ],
+      "SensorsInTheBox": ["Multi-protocol Sensors"],
+      "Gateways": ["Cisco IoT Gateway"],
+      "Integrations": ["LoRaWAN, Wi-Fi, Cellular, Ethernet"],
+      "MobileApp": "Cisco IoT Control Center",
+      "Editions": ["Enterprise", "Industrial"],
+      "Link": "https://www.cisco.com/",
+      "Type": "IoT Gateway",
+      "AddedDate": "2024-12-07"
+    },
+    "IoT SIM Cards": {
+      "Overview": "SIM cards optimized for IoT deployments, offering global connectivity with flexible data plans.",
+      "BusinessFeatures": [
+        "Multi-network connectivity",
+        "Flexible data plans tailored for IoT",
+        "Secure communication for IoT devices"
+      ],
+      "UseCases": ["Smart Agriculture", "Fleet Management", "Industrial IoT"],
+      "Providers": ["Orange IoT SIM", "Vodafone IoT SIM", "AT&T IoT SIM"],
+      "Integrations": ["Global IoT Platforms"],
+      "MobileApp": "SIM Management Portals available",
+      "Editions": ["Prepaid", "Postpaid"],
+      "Link": "https://www.orange.com/",
+      "Type": "IoT Connectivity",
+      "AddedDate": "2024-12-07"
+    },
+    "Proximus MyThings": {
+      "Overview": "Proximus MyThings is a LoRaWAN service offered by the leading Belgian Telecom Operator.",
+      "BusinessFeatures": [
+        "Nationwide LoRaWAN coverage in Belgium",
+        "Supports a wide range of IoT applications",
+        "Member of the LoRaWAN Alliance board"
+      ],
+      "SensorsInTheBox": ["LoRaWAN Sensors"],
+      "NetworkServers": ["Proximus MyThings"],
+      "Integrations": ["IOT Factory Software Platform"],
+      "MobileApp": "Browser-based tools available",
+      "Editions": ["Nationwide Services"],
+      "Link": "https://www.proximus.be/mythings",
+      "Type": "Network Server",
+      "AddedDate": "2024-12-07"
+    },
+    "IoT Gateways with Docker": {
+      "Overview": "IoT Gateways supporting Docker to host containerized applications, enhancing flexibility and scalability.",
+      "BusinessFeatures": [
+        "Supports Docker containers for edge computing",
+        "Ideal for industrial IoT and on-premise deployments",
+        "Provides high-security features for enterprise environments"
+      ],
+      "SensorsInTheBox": ["Docker-Compatible Sensors"],
+      "Gateways": ["RAD SecFlow", "Cisco IoT Gateway"],
+      "Integrations": ["Docker Ecosystem", "LoRaWAN", "Industrial IoT Systems"],
+      "MobileApp": "Browser-based gateway management tools",
+      "Editions": ["Industrial", "Enterprise"],
+      "Link": "https://www.docker.com/",
+      "Type": "IoT Gateway",
+      "AddedDate": "2024-12-07"
+    },
+    "IOT Factory Software Platform": {
+      "Overview": "A comprehensive IoT software platform for integrating, managing, and visualizing IoT data.",
+      "BusinessFeatures": [
+        "Standardized integrations with major LoRaWAN servers",
+        "Dashboards, alerts, and analytics for IoT deployments",
+        "APIs for custom application development"
+      ],
+      "SensorsInTheBox": ["Compatible with multiple sensor types"],
+      "NetworkServers": [
+        "ChirpStack",
+        "The Things Network",
+        "ThingPark",
+        "Everynet",
+        "LORIOT"
+      ],
+      "Integrations": ["IoT Gateways", "LoRaWAN Networks", "SigFox"],
+      "MobileApp": "No dedicated app, browser-based management",
+      "Editions": ["Standard", "Enterprise"],
+      "Link": "https://www.iotfactory.eu/",
+      "Type": "IoT Platform",
+      "AddedDate": "2024-12-07"
+    },
+    "SigFox Network": {
+      "Overview": "SigFox is a global IoT network provider offering low-power, wide-area connectivity.",
+      "BusinessFeatures": [
+        "Low-cost IoT network alternative",
+        "Global coverage for low-power devices",
+        "Designed for IoT applications requiring minimal data transfer"
+      ],
+      "SensorsInTheBox": ["SigFox-Compatible Sensors"],
+      "NetworkServers": ["SigFox Cloud"],
+      "Integrations": ["IoT Factory Software Platform", "SigFox APIs"],
+      "MobileApp": "SigFox Cloud Management",
+      "Editions": ["Global IoT Network"],
+      "Link": "https://www.sigfox.com/",
+      "Type": "IoT Network",
+      "AddedDate": "2024-12-07"
+    },
+    "Private LoRaWAN Networks": {
+      "Overview": "Custom private LoRaWAN networks for organizations requiring exclusive data handling and control.",
+      "BusinessFeatures": [
+        "Complete network control and management",
+        "Enhanced security and scalability",
+        "Supports enterprise and industrial IoT applications"
+      ],
+      "SensorsInTheBox": ["Customizable Sensor Compatibility"],
+      "NetworkServers": ["ChirpStack", "LORIOT", "ThingPark"],
+      "Integrations": ["IoT Gateways", "Custom Applications"],
+      "MobileApp": "Custom management portals",
+      "Editions": ["Enterprise", "Industrial"],
+      "Link": "https://www.lorawan.com/",
+      "Type": "Private IoT Network",
+      "AddedDate": "2024-12-07"
+    },
+    "Industrial IoT Solutions": {
+      "Overview": "Comprehensive IoT solutions tailored for industrial environments.",
+      "BusinessFeatures": [
+        "Robust and scalable architectures",
+        "Designed for harsh industrial conditions",
+        "Integrations with major IoT platforms and network servers"
+      ],
+      "SensorsInTheBox": ["Industrial-Grade Sensors"],
+      "Gateways": ["RAD SecFlow", "Cisco IoT Gateway", "Multitech Conduit"],
+      "Integrations": ["IoT Factory Software Platform", "Industrial Systems"],
+      "MobileApp": "Custom apps for monitoring and control",
+      "Editions": ["Industrial", "Enterprise"],
+      "Link": "https://www.industry40.io/",
+      "Type": "IoT Solution",
+      "AddedDate": "2024-12-07"
+    },
+    "IoT SIM Cards for Global Connectivity": {
+      "Overview": "IoT SIM cards designed for global multi-network connectivity, ensuring seamless operations across regions.",
+      "BusinessFeatures": [
+        "Supports multi-network roaming",
+        "Optimized for low-power IoT devices",
+        "Global data plans with secure connectivity"
+      ],
+      "Providers": [
+        "Orange IoT SIM",
+        "Vodafone IoT SIM",
+        "AT&T IoT SIM",
+        "Telekom IoT SIM"
+      ],
+      "UseCases": ["Smart Agriculture", "Fleet Management", "Industrial Monitoring"],
+      "Integrations": ["IoT Gateways", "IoT Platforms"],
+      "MobileApp": "SIM Management Portals",
+      "Editions": ["Global Plans", "Custom Plans"],
+      "Link": "https://www.orange.com/",
+      "Type": "IoT Connectivity",
+      "AddedDate": "2024-12-07"
+    }  ,
+    "IoT Device Management Platforms": {
+      "Overview": "Platforms designed for managing IoT devices, ensuring efficient operations and streamlined deployments.",
+      "BusinessFeatures": [
+        "Real-time monitoring and diagnostics",
+        "Batch firmware updates and configuration",
+        "Integration with cloud and on-premise systems"
+      ],
+      "SupportedDevices": ["LoRaWAN Devices", "Cellular IoT Devices", "Wi-Fi IoT Devices"],
+      "Integrations": ["AWS IoT Core", "Microsoft Azure IoT Hub", "Google Cloud IoT"],
+      "MobileApp": "Native apps for device management",
+      "Editions": ["Free Tier", "Enterprise"],
+      "Link": "https://aws.amazon.com/iot/",
+      "Type": "Device Management Platform",
+      "AddedDate": "2024-12-07"
+    },
+    "AWS IoT Core": {
+      "Overview": "A managed cloud platform by Amazon Web Services enabling secure and scalable IoT connectivity.",
+      "BusinessFeatures": [
+        "Secure device-to-cloud communication",
+        "Real-time data processing and analytics",
+        "Integration with AWS services like Lambda and DynamoDB"
+      ],
+      "SensorsInTheBox": ["Supports multiple protocols: MQTT, HTTP, WebSockets"],
+      "Integrations": ["LoRaWAN Gateways", "Edge Devices"],
+      "MobileApp": "AWS IoT Console (Browser-based)",
+      "Editions": ["Free Tier", "Pay-As-You-Go"],
+      "Link": "https://aws.amazon.com/iot-core/",
+      "Type": "Cloud IoT Platform",
+      "AddedDate": "2024-12-07"
+    },
+    "Microsoft Azure IoT Hub": {
+      "Overview": "Microsoft's IoT platform offering device management, data ingestion, and analytics.",
+      "BusinessFeatures": [
+        "Bidirectional communication with IoT devices",
+        "Scalable cloud architecture",
+        "Supports integration with Azure services like AI and ML"
+      ],
+      "SensorsInTheBox": ["Supports LoRaWAN, Cellular, and Wi-Fi Devices"],
+      "Integrations": ["Industrial IoT Systems", "Azure Machine Learning"],
+      "MobileApp": "Azure IoT Explorer",
+      "Editions": ["Basic", "Standard", "Enterprise"],
+      "Link": "https://azure.microsoft.com/en-us/services/iot-hub/",
+      "Type": "Cloud IoT Platform",
+      "AddedDate": "2024-12-07"
+    },
+    "Google Cloud IoT": {
+      "Overview": "Google's IoT platform providing tools for connecting and analyzing IoT data at scale.",
+      "BusinessFeatures": [
+        "Integration with Google Cloud services",
+        "Advanced analytics and AI tools",
+        "Secure device-to-cloud communication"
+      ],
+      "SensorsInTheBox": ["Supports LoRaWAN, Cellular, and Edge Devices"],
+      "Integrations": ["Google BigQuery", "Google AI Tools"],
+      "MobileApp": "Google Cloud Console",
+      "Editions": ["Standard", "Enterprise"],
+      "Link": "https://cloud.google.com/iot",
+      "Type": "Cloud IoT Platform",
+      "AddedDate": "2024-12-07"
+    },
+    "Sigfox IoT Connectivity": {
+      "Overview": "Global IoT network connectivity focusing on low-power and cost-efficient deployments.",
+      "BusinessFeatures": [
+        "Global coverage with low-power wide-area network",
+        "Designed for minimal data transmission",
+        "Cost-efficient for large-scale IoT deployments"
+      ],
+      "SupportedDevices": ["Low-Power IoT Sensors"],
+      "Integrations": ["IoT Factory Software", "Sigfox Cloud"],
+      "MobileApp": "Sigfox Device Manager",
+      "Editions": ["Basic", "Enterprise"],
+      "Link": "https://www.sigfox.com/",
+      "Type": "IoT Connectivity Platform",
+      "AddedDate": "2024-12-07"
+    },
+    "LoRaWAN Alliance Ecosystem": {
+      "Overview": "A global association promoting LoRaWAN standards and ecosystem development.",
+      "BusinessFeatures": [
+        "Unified LoRaWAN standards and guidelines",
+        "Membership access to resources and certifications",
+        "Supports a global community of IoT developers"
+      ],
+      "SupportedDevices": ["LoRaWAN Sensors", "Gateways"],
+      "Integrations": ["ChirpStack", "The Things Network", "LORIOT"],
+      "MobileApp": "No dedicated app",
+      "Editions": ["Member", "Partner"],
+      "Link": "https://lora-alliance.org/",
+      "Type": "IoT Ecosystem",
+      "AddedDate": "2024-12-07"
+    },
+    "Industrial IoT Gateways": {
+      "Overview": "Gateways designed for harsh industrial environments with support for multiple IoT protocols.",
+      "BusinessFeatures": [
+        "Robust design for industrial applications",
+        "Supports multiple communication protocols",
+        "Integrates with cloud and on-premise platforms"
+      ],
+      "Gateways": ["RAD SecFlow", "Cisco IoT Gateways", "Multitech Conduit"],
+      "Integrations": ["AWS IoT Core", "Azure IoT Hub", "Google Cloud IoT"],
+      "MobileApp": "Web-based management tools",
+      "Editions": ["Industrial", "Enterprise"],
+      "Link": "https://www.rad.com/",
+      "Type": "IoT Gateway",
+      "AddedDate": "2024-12-07"
+    },
+    "IoT Sensors Ecosystem": {
+      "Overview": "Comprehensive ecosystem of IoT sensors for diverse applications such as industrial, healthcare, and agriculture.",
+      "BusinessFeatures": [
+        "Wide range of sensor types",
+        "Compatible with multiple network servers",
+        "Supports integrations with major IoT platforms"
+      ],
+      "SupportedDevices": ["Temperature Sensors", "Motion Sensors", "Water Quality Sensors"],
+      "Integrations": ["LoRaWAN Networks", "Sigfox", "Cellular IoT"],
+      "MobileApp": "Sensor-specific apps available",
+      "Editions": ["Standard", "Enterprise"],
+      "Link": "https://www.iot-sensors.com/",
+      "Type": "IoT Sensor Ecosystem",
+      "AddedDate": "2024-12-07"
+    },
+    "IoT Security Solutions": {
+      "Overview": "Security solutions designed to safeguard IoT networks and devices against cyber threats.",
+      "BusinessFeatures": [
+        "Advanced encryption and authentication",
+        "Intrusion detection and prevention systems",
+        "Designed for compliance with IoT security standards"
+      ],
+      "SupportedDevices": ["IoT Gateways", "IoT Sensors"],
+      "Integrations": ["AWS IoT Core", "Azure IoT Hub", "Edge Computing Systems"],
+      "MobileApp": "Security Monitoring Apps",
+      "Editions": ["Basic", "Enterprise"],
+      "Link": "https://www.iotsecurity.com/",
+      "Type": "IoT Security",
+      "AddedDate": "2024-12-07"
+    }
+  }
+  
